@@ -1,4 +1,4 @@
-This repository contains a collection of Java programs that demonstrate the use of loops—for, while, and do-while—to solve various basic and intermediate programming problems. These programs are part of my Java practice and assignment work.
+This repository Folder Assignment 1 contains a collection of Java programs that demonstrate the use of loops—for, while, and do-while—to solve various basic and intermediate programming problems. These programs are part of my Java practice and assignment work.
 
 📂 Topics Covered
 Printing patterns using loops
